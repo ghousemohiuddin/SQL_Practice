@@ -33,9 +33,6 @@ insert into employee values(124, 'Dheeraj', 'IT', 11000);
 COMMIT;
 
 
-/* **************
-   Video Summary
- ************** */
 
 select * from employee;
 
