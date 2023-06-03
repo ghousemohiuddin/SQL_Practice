@@ -42,8 +42,6 @@ COMMIT;
 
 
 
--- All the SQL Queries written during the video
-
 select * from product;
 
 
